@@ -1,7 +1,7 @@
 from flask import Flask
 from tiniyo.voice_response import VoiceResponse
 from xmlhelp import tiniyoml
-from config import *
+
 
 app = Flask(__name__)
 
