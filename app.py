@@ -11,7 +11,7 @@ def record():
     response = VoiceResponse()
     response.record(
         record="record-from-tiniyo",
-        recording_status_callback="https://ensh0ghfhpwu.x.pipedream.net/",
+        recording_status_callback="https://en1o0co9s6m83.x.pipedream.net/",
         recording_status_callback_event='complete',
         max_length='10',
         playBeep="false",
